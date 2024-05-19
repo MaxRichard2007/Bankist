@@ -214,3 +214,39 @@ btnClose.addEventListener("click", function (e) {
 
   inputCloseUsername.value = inputClosePin.value = "";
 });
+
+let sorted = false;
+
+btnSort.addEventListener('click', function(e) {
+  e.preventDefault()
+
+  displayMovements(currentAccount.movements, !sorted);
+  sorted = !sorted;
+})
+// Strings
+const owners = ["Jonas", "Zach", "Adam", "Matrha"];
+console.log(owners.sort());
+console.log(owners);
+
+const movements2 = [200, -200, 340, -300, -20, 50, 400, -460];
+
+// Number
+console.log(movements2);
+
+// return < 0, A, B
+// return > 0, A, B
+
+movements2.sort((a, b) => {
+  if (a > b) return 1;
+  else return -1;
+});
+
+console.log(movements2);
+
+movements2.sort((a, b) => a - b);
+
+console.log("a - b", movements2);
+
+movements2.sort((a, b) => b - a);
+
+console.log("b - a", movements2);
