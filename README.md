@@ -12,7 +12,7 @@ You must enter the username and password of each account **correctly**, otherwis
 
 ### Account 1
 
-``` 
+```
 Owner: Max Richard
 Movements: [200, 450, -400, 3000, -650, -130, 70, 1300]
 Interest Rate: 1.2%
@@ -20,6 +20,7 @@ PIN: 1111
 ```
 
 Username: **mr**
+
 Pin: **1111**
 
 ### Account 2
@@ -32,6 +33,7 @@ PIN: 2222
 ```
 
 Username: **jd**
+
 Pin: **2222**
 
 ### Account 3
@@ -42,7 +44,9 @@ Movements: [200, -200, 340, -300, -20, 50, 400, -460]
 Interest Rate: 0.7%
 PIN: 3333
 ```
+
 Username: **stw**
+
 Pin: **3333**
 
 ### Account 4
@@ -55,6 +59,7 @@ PIN: 4444
 ```
 
 Username: **ss**
+
 Pin: **4444**
 
 ## Transfer money 💱
@@ -84,16 +89,17 @@ If you break any of the rules or make a mistake, you cannot delete the account
 But when you delete the account, you enter the main page, but this time you cannot enter the deleted account
 
 ## sort section 👌
+
 sort section
 
 You can use this section to sort the money spent or received
 
 ## End of decument 🔚
 
-today is 21/05/2024
-
 Please let me know if you have any suggestions about the site. Feel free to contact me via email with your requests.
 
 ### Thank you for your time 😊
+
+*21/05/2024*
 
 Enjoy your experience with the Bankist app!
