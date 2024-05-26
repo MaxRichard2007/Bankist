@@ -6,7 +6,7 @@ The Bankist app is a simple banking application that allows users to manage thei
 
 click here 👇👇
 
-<a href="https://bankist-max-richard.netlify.app/" target="_blank" style="text">Bankist<a>
+<a href="https://bankist-max-richard.netlify.app/" target="_blank" style="text-decoration: none;">Bankist<a>
 
 or you can download the project and run the index file and run on your browser
 
